@@ -1,3 +1,10 @@
+Это пример выполнения задания, которое должно соответствовать этим критериям:
+1. Компонент получает данные из родительского компонента
+2. Компонент изменяет данные у родительского компонента
+3. Использовать v-if, v-for, v-model
+
+Файл "app.vue" выступает в качестве родительского компонента, а файл "ChildItem.vue" в качестве дочернего(находится в папке "components")
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
